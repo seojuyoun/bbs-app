@@ -55,10 +55,7 @@ export default {
     return {
       text1: `
           자료실입니다.
-          Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-          richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-          brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon
-          tempor
+         코코사진
         `,
       text2: `
           공지사항입니다.
