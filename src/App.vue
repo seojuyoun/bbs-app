@@ -24,7 +24,7 @@ export default {
 
 <style>
 #app {
-  font-family: "Noto Sans", "Avenir", Helvetica, Arial, sans-serif;
+  font-family: "Nanum Square Round","Noto Sans", "Avenir", Helvetica, Arial, sans-serif;
   text-align: center;
   color: #2c3e50;
 }
